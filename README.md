@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SkAsmaParveen
+- 👋 Hi, I’m Shaik Asma Parveen
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning better ways to code
 - 💞️ I’m looking to collaborate on ...
