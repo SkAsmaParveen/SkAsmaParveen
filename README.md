@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shaik Asma Parveen
-- 👀 I’m interested in Programming
+- 👋 Hi, I’m Asma Parveen
+-  My Linkedin Profile => https://www.linkedin.com/in/shaik-asma-parveen-162599250/
 - 🌱 I’m currently learning better ways to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rehanaparveenshaik580@gmail.com
