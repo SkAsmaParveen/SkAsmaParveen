@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Movie Recommendation System<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about Data Structures and Algorithms<br>
+🔭 I’m currently working on Movie Recommendation System<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about Computer Science<br>
 
 
 ## 🌐 Socials:
